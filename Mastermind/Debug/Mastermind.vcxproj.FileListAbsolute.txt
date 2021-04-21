@@ -1,0 +1,2 @@
+C:\Users\pmabb\source\repos\Mastermind\Debug\Mastermind.exe
+C:\Users\pmabb\source\repos\Mastermind\Debug\Mastermind.pdb
